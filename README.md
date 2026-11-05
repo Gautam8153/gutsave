@@ -1,2 +1,0 @@
-# gutsave
-Static site

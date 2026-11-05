@@ -1,0 +1,26 @@
+# Gut Save
+
+> Gut Save is a Digestive Health Supplement. Gut Save is a natural digestive health formula marketed as the first and only product designed to target what the brand calls the real root cause of bloating, constipation and general digestive discomfort. Rather than offering only fast, temporary relief, the formula is positioned around supporting healthier digestion from the inside so that gas, heaviness and irregular bowel movements become less frequent over time. It is sold as a daily-use supplement in capsule form through its official website, typically in multi-bottle bundles for people who want to commit to a longer stretch of consistent use.
+
+## Pages
+- [Home — overview, pricing and FAQ](https://gutsave.onrender.com/)
+- [What Gut Save is](https://gutsave.onrender.com/what-is-product.html)
+- [How Gut Save works](https://gutsave.onrender.com/how-it-works.html)
+- [Gut Save ingredients, explained individually](https://gutsave.onrender.com/ingredients.html)
+- [Gut Save benefits](https://gutsave.onrender.com/benefits.html)
+- [Gut Save customer reviews](https://gutsave.onrender.com/reviews.html)
+- [Gut Save frequently asked questions](https://gutsave.onrender.com/faq.html)
+
+## Blog
+- [What To Know Before Trying Gut Save](https://gutsave.onrender.com/blog/what-to-know-before-trying.html): A clear, honest look at Gut Save — what it contains, how it is used, what it costs, and the guarantee behind it — before you decide to order.
+- [How To Read A Supplement Label](https://gutsave.onrender.com/blog/how-to-read-a-supplement-label.html): Serving size, proprietary blends and other ingredients explained — using Gut Save's own label as a real example of what to look for.
+- [Gut Save: An Honest Review](https://gutsave.onrender.com/blog/gut-save-honest-review.html): An honest look at Gut Save — what it claims to do, what it actually contains, what it costs, and who it is realistically a good fit for.
+- [Digestive Enzyme Blend vs Probiotic Strains: What Each Does In Gut Save](https://gutsave.onrender.com/blog/digestive-enzyme-blend-vs-probiotic-strains.html): Digestive Enzyme Blend and Probiotic Strains are both in Gut Save but play different roles — here is what each one actually does in the formula.
+- [Daily Habits That Complement Gut Save](https://gutsave.onrender.com/blog/daily-habits-that-complement-it.html): Simple daily habits — hydration, timing, consistency — that pair well with Gut Save as part of a digestive health routine.
+- [Gut Save FAQ: Dosage, Timing, Who Should Skip It](https://gutsave.onrender.com/blog/gut-save-faq.html): Common questions about Gut Save — dosage, timing, the guarantee, and who should skip it — answered directly.
+- [Terms of Use](https://gutsave.onrender.com/terms.html)
+- [Privacy Policy](https://gutsave.onrender.com/privacy-policy.html)
+- [Disclaimer](https://gutsave.onrender.com/disclaimer.html)
+- [Refund Policy](https://gutsave.onrender.com/refund-policy.html)
+- [About Us](https://gutsave.onrender.com/about.html)
+- [Contact Us](https://gutsave.onrender.com/contact.html)
